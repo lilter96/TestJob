@@ -1,0 +1,8 @@
+# LF everywhere: a CRLF in pgpass would turn the password into "testjob\r".
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.ico binary
+*.dll binary
+*.exe binary
